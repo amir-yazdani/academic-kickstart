@@ -38,3 +38,6 @@ weight = 5
 
 # Biography
 I am a Ph.D. candidate at the Utah Robotics Center, University of Utah. I am passionate about human-aware prediction and planning for robots, reinforcement learning, artificial intelligence, and probabilistic robotics. My current research includes pose estimation and prediction, learning and planning under uncertainty, motion planning and safety in robotics. I also have experiences in the design and development of robots including serial and parallel manipulators and mobile robots.
+
+Email: amir.yazdani@utah.edu
+
