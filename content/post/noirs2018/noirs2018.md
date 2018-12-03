@@ -26,4 +26,4 @@ both robotics and safety and health communities.
 
 The pdf version of his presentation is available here
 
-{{% staticref "files/NOIRS2018-AmirYazdani.pdf" "newtab" %}}The pdf version of his presentation is available here{{% /staticref %}}
+The pdf version of his presentation is available {{% staticref "files/NOIRS2018-AmirYazdani.pdf" "newtab" %}}here{{% /staticref %}}
