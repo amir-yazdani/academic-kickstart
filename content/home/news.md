@@ -14,4 +14,7 @@ subtitle = ""
 weight = 60
 
 +++
-Amir presented in NOIRS 2018
+
+| Date           | Description                    |
+| ------------------| ------------------------------ |
+|October 2018 |An abstract presented in NOIRS 2018|
