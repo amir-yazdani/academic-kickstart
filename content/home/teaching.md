@@ -16,29 +16,23 @@ weight = 60
 +++
 
 #### University of Utah
-Teacher assistant for 
 
-- ME EN 1000: Introduction to Design for Engineering Systems
-- ME EN 1010: Computer-based Problem Solving for Engineering Systems
-- ME EN 4000: Engineering Design I}{Teacher Assistant
 
-Lab instructor for
-
-- ME EN 1005: CAD Lab
+- ME EN 1000: Introduction to Design for Engineering Systems (TA)
+- ME EN 1010: Computer-based Problem Solving for Engineering Systems (TA)
+- ME EN 4000: Engineering Design I (TA)
+- ME EN 1005: CAD Lab (Lab instructor)
 
 #### University of Tehran
-Teacher assistant for
 
-- Parallel Robots
-- Statics and Strength of Materials
-- Advanced Robotics
+- Parallel Robots (TA)
+- Statics and Strength of Materials (TA)
+- Advanced Robotics (TA)
 
 #### IEEE-Iran Section
-Instructor for 
 
-- Robot design by SolidWorks
+- Robot design by SolidWorks (Instructor)
 
-#### Khajeh Nasir Toosi Univerity of Technology
-Lab instructor for 
+#### Khajeh Nasir Toosi Univerity of Technology 
 
-- Engineering Drawing
+- Engineering Drawing (Lab instructor)
