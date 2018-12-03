@@ -9,12 +9,9 @@ date = 2017-01-01T00:00:00
 list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
-# [header]
 image = "noirs.jpg"
 caption = ""
- # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+focal_point = "TopLeft"
 
 +++
 Amir presented in 2018 National Occupational Injury Reduction Symposiums (NOIRS 2018) with the title of
