@@ -5,14 +5,15 @@ date = 2017-01-01T00:00:00
 # List format.
 #   0 = Simple
 #   1 = Detailed
-#   2 = Streamasdasd
+#   2 = Stream
 list_format = 2
 tags = ["NOIRS2018", "Abstract"]
 reading_time = false  # Show estimated reading time?
-# Optional featured image (relative to `static/img/` folder).
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "aa"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -20,6 +21,7 @@ reading_time = false  # Show estimated reading time?
 
   # Show image only in page previews?
   preview_only = false
+  
 +++
 
 {{< figure library="1" src="noirs.jpg">}}
