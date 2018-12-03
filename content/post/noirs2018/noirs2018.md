@@ -7,7 +7,8 @@ date = 2017-01-01T00:00:00
 #   1 = Detailed
 #   2 = Streamasdasd
 list_format = 1
-
+tags = ["NOIRS2018", "Abstract"]
+reading_time = false  # Show estimated reading time?
 # Optional featured image (relative to `static/img/` folder).
 # [header]
 
