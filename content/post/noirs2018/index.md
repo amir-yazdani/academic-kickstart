@@ -6,14 +6,16 @@ date = 2017-01-01T00:00:00
 #   0 = Simple
 #   1 = Detailed
 #   2 = Streamasdasd
-list_format = 1
+list_format = 2
 tags = ["NOIRS2018", "Abstract"]
 reading_time = false  # Show estimated reading time?
 # Optional featured image (relative to `static/img/` folder).
 # [header]
+
 [image]
 
 +++
+
 {{< figure library="1" src="noirs.jpg">}}
 
 
