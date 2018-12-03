@@ -17,4 +17,4 @@ weight = 60
 
 | Date           | Description                    |
 | ------------------| ------------------------------ |
-|October 2018 |An abstract presented in NOIRS 2018.|
+|October 2018 |[An abstract presented in NOIRS 2018.]({{< ref "post/noirs2018/index.md" >}})|
