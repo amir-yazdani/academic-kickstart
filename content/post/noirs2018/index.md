@@ -11,7 +11,15 @@ tags = ["NOIRS2018", "Abstract"]
 reading_time = false  # Show estimated reading time?
 # Optional featured image (relative to `static/img/` folder).
 [image]
+  # Caption (optional)
+  caption = ""
 
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
+
+  # Show image only in page previews?
+  preview_only = false
 +++
 
 {{< figure library="1" src="noirs.jpg">}}
