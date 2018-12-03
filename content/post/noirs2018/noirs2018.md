@@ -12,7 +12,7 @@ list_format = 1
 # [header]
 
 +++
-{{< figure library="1" src="noirs.jpg" title="" >}}
+{{< figure library="1" src="noirs.jpg">}}
 
 
 Amir presented in 2018 National Occupational Injury Reduction Symposiums (NOIRS 2018) with the title of
