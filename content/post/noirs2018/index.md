@@ -10,8 +10,6 @@ list_format = 2
 tags = ["NOIRS2018", "Abstract"]
 reading_time = false  # Show estimated reading time?
 # Optional featured image (relative to `static/img/` folder).
-# [header]
-
 [image]
 
 +++
