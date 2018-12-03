@@ -17,12 +17,12 @@ weight = 60
 
 | Date           | Description                    |
 | ------------------| ------------------------------ |
-|October 2018 |[An abstract presented in NOIRS 2018]({{< ref "post/noirs2018/index.md" >}})|
-|October 2018 |[Paper presented in IROS 2018, Mardid, Spain]({{< ref "post/noirs2018/index.md" >}})|
-|April 2018 |[Awarded the 2018 ASSP Foundation Scholarship]({{< ref "post/noirs2018/index.md" >}})|
+|Oct 2018 |[An abstract presented in NOIRS 2018]({{< ref "post/noirs2018/index.md" >}})|
+|Oct 2018 |[Paper presented in IROS 2018, Mardid, Spain]({{< ref "post/noirs2018/index.md" >}})|
+|Apr 2018 |[Awarded the 2018 ASSP Foundation Scholarship]({{< ref "post/noirs2018/index.md" >}})|
 |May 2018 |[Awarded the 2018 Dr. Paul Richards's Safe Workplace Scholarship]({{< ref "post/noirs2018/index.md" >}})|
-|July 2017 |[Poster presented in  ICAMPAM 2018, Bethesda, MD]({{< ref "post/noirs2018/index.md" >}})|
+|Jul 2017 |[Poster presented in  ICAMPAM 2018, Bethesda, MD]({{< ref "post/noirs2018/index.md" >}})|
 |May 2017 |[Awarded the 2017 Dr. Paul Richards's Safe Workplace Scholarship]({{< ref "post/noirs2018/index.md" >}})|
 |May 2017 |[Abstract presented in 2017 NOISH State of The Science Conference, Aurora, CO]({{< ref "post/noirs2018/index.md" >}})|
 |May 2017 |[Abstract presented in NORA 2017, Salt Lake City, UT]({{< ref "post/noirs2018/index.md" >}})|
-|July 2016 |[Awarded the $6,500 NIOSH Pilot Project grant from RMCOEH]({{< ref "post/noirs2018/index.md" >}})|
+|Jul 2016 |[Awarded the $6,500 NIOSH Pilot Project grant from RMCOEH]({{< ref "post/noirs2018/index.md" >}})|
