@@ -10,13 +10,12 @@ list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
 # [header]
-
+[image]
+  caption = ""
+  focal_point = "TopLeft"
 
 +++
-[image]
-image = "noirs.jpg"
-caption = ""
-focal_point = "TopLeft"
+
 
 Amir presented in 2018 National Occupational Injury Reduction Symposiums (NOIRS 2018) with the title of
 “Changing Perceptions of Robotics in Industry: Recent  Accomplishment in Safety and Injury Risk Reduction”.
