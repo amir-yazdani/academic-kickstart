@@ -24,6 +24,4 @@ of collaborative robots. He reviewed the most cutting-edge researches in ergonom
 the current challenges in this area of research. He also suggested several new research ideas and opportunities for 
 both robotics and safety and health communities.
 
-The pdf version of his presentation is available here
-
-The pdf version of his presentation is available {{% staticref "files/NOIRS2018-AmirYazdani.pdf" "newtab" %}}here{{% /staticref %}}
+The pdf version of his presentation is available {{% staticref "files/NOIRS2018-AmirYazdani.pdf" "newtab" %}}here{{% /staticref %}}.
