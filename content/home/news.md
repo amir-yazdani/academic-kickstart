@@ -17,7 +17,7 @@ weight = 60
 
 | Date           | Description                    |
 | ------------------| ------------------------------ |
-|Oct 2018 |[An abstract presented in NOIRS 2018]({{< ref "post/noirs2018/index.md" >}})|
+|Oct 2018 |An [abstract]({{< ref "static/files/NOIRS2018-AmirYazdani.pdf" >}}) presented in NOIRS 2018|
 |Oct 2018 |[Paper presented in IROS 2018, Mardid, Spain]({{< ref "post/noirs2018/index.md" >}})|
 |Apr 2018 |[Awarded the 2018 ASSP Foundation Scholarship]({{< ref "post/noirs2018/index.md" >}})|
 |May 2018 |[Awarded the 2018 Dr. Paul Richards's Safe Workplace Scholarship]({{< ref "post/noirs2018/index.md" >}})|
