@@ -72,7 +72,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Maximal circle singularity-free workspace determination of 3-RRR planar parallel manipulator"
+  caption = "VirSense haptic device"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
